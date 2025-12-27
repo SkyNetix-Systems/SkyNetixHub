@@ -1,2 +1,0 @@
-# SkyTalk
-## WhatsApp Clone
